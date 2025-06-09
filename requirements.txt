@@ -7,3 +7,4 @@ easyocr
 torch
 torchvision
 Pillow
+gdown
