@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['plate']
+
+roboflow:
+  workspace: helian
+  project: placa_colombia
+  version: 8
+  license: Private
+  url: https://app.roboflow.com/helian/placa_colombia/8
