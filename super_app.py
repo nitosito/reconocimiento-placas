@@ -15,7 +15,7 @@ from anpr_engine import process_image_for_dashboard, process_frame_for_realtime
 st.set_page_config(layout="wide", page_title="ANPR Super App", page_icon="📸")
 
 # --- Título Principal ---
-st.title("SUPER APLICACIÓN DE RECONOCIMIENTO DE PLACAS")
+st.title("RED CONVOLUCIONAL PARA EL RECONOCIMIENTO DE PLACAS VEHICULARES COLOMBIANAS")
 
 # --- Creación de las Pestañas ---
 tab1, tab2 = st.tabs(["📁 Análisis Detallado de Imagen", "📹 Detección en Tiempo Real (Webcam)"])
